@@ -45,6 +45,9 @@
     <ClInclude Include="antdefines.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DeviceProxy_Cadence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -63,6 +66,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ZES.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeviceProxy_Cadence.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

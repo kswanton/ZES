@@ -155,6 +155,7 @@
   <ItemGroup>
     <ClInclude Include="antdefines.h" />
     <ClInclude Include="DeviceProxy.h" />
+    <ClInclude Include="DeviceProxy_Cadence.h" />
     <ClInclude Include="DeviceProxy_HR.h" />
     <ClInclude Include="DeviceProxy_Pwr.h" />
     <ClInclude Include="libant.h" />
@@ -165,6 +166,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DeviceProxy.cpp" />
+    <ClCompile Include="DeviceProxy_Cadence.cpp" />
     <ClCompile Include="DeviceProxy_HR.cpp" />
     <ClCompile Include="DeviceProxy_Pwr.cpp" />
     <ClCompile Include="libant.cpp" />
