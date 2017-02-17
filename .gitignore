@@ -1,0 +1,9 @@
+/.vs/ZES/v14/*.suo
+/.vs/ZwiftCheat/v14/*.suo
+/Debug
+/Release
+/ipch
+/.vs
+/ZES/Debug
+/ZES/Release
+/ZES/*.user
